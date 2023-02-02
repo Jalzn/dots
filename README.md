@@ -4,5 +4,7 @@
 </div>
 
 ## Contents
+  - [ Terminal ]()
+    - [ Starship ]()
   - [ Text Editor ]()
     - [ NeoVim ]()
