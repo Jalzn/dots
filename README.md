@@ -7,6 +7,7 @@
   - [ Interface ]()
     - [ Polybar ]()
   - [ Terminal ]()
+    - [ Alacritty ]()
     - [ Starship ]()
   - [ Text Editor ]()
     - [ NeoVim ]()
