@@ -1,0 +1,18 @@
+import:
+ - ~/.config/alacritty/themes/tokyo-night.yml
+
+env:
+  TERM: alacritty
+
+window:
+  padding:
+    x: 8
+    y: 8
+
+  opacity: 1.0
+
+font:
+  normal:
+    family: Hack Nerd Font Mono
+
+  size: 9.0
